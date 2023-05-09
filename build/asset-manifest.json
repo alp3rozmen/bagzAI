@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Coin-App/static/css/main.dcdd18a0.css",
+    "main.js": "/Coin-App/static/js/main.ca4eaefa.js",
+    "static/js/787.80d59761.chunk.js": "/Coin-App/static/js/787.80d59761.chunk.js",
+    "static/media/PingFang_SC.ttf": "/Coin-App/static/media/PingFang_SC.3ebfe3cfb12ca2257649.ttf",
+    "static/media/fa-solid-900.ttf": "/Coin-App/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/Coin-App/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/Coin-App/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Coin-App/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/Coin-App/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/Coin-App/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Coin-App/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Coin-App/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/Coin-App/index.html",
+    "main.dcdd18a0.css.map": "/Coin-App/static/css/main.dcdd18a0.css.map",
+    "main.ca4eaefa.js.map": "/Coin-App/static/js/main.ca4eaefa.js.map",
+    "787.80d59761.chunk.js.map": "/Coin-App/static/js/787.80d59761.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcdd18a0.css",
+    "static/js/main.ca4eaefa.js"
+  ]
+}
